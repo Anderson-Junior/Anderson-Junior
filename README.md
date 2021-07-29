@@ -43,4 +43,6 @@
    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=anderson-junior&show_icons=true&theme=dracula&locale=en&layout=compact" alt="anderson-junior" />
    <img height="170" src="https://github-readme-stats.vercel.app/api?username=anderson-junior&show_icons=true&theme=dracula&locale=en" alt="anderson-junior" />
 </div>
-![Snake animation](https://github.com/Anderson-Junior/Anderson-Junior/blob/output/github-contribution-grid-snake.svg)
+<div>
+   ![Snake animation](https://github.com/Anderson-Junior/Anderson-Junior/blob/output/github-contribution-grid-snake.svg)
+</div>
